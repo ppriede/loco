@@ -1,4 +1,4 @@
 baseURL = 'https://loco.kultura.cl/'
-locale = 'en-us'
+locale = 'es-cl'
 title = 'loco'
 theme = 'ananke'
