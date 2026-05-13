@@ -1,6 +1,6 @@
 /* Change font size for all code blocks */
-.highlight pre, 
-.highlight code {
+pre, 
+code {
     font-size: 8px;
     line-height: 1;   /* Recommended for readability */
 }
