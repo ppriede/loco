@@ -1,6 +1,10 @@
 /* Change font size for all code blocks */
-pre, 
 code {
-    font-size: 8px;
-    line-height: 1;   /* Recommended for readability */
+    line-break: '';
+    font-size: 1px;
+    line-height: 1px;
+    font-family: 'Consolas';
+    white-space: pre;      /* Prevents text from wrapping */
+    overflow-x: auto;     /* Adds a horizontal scrollbar if the line is too long */
+    display: block;
 }
