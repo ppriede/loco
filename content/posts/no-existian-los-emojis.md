@@ -1,6 +1,6 @@
 +++
 date = '2026-05-12T20:21:22-04:00'
-draft = true
+draft = false
 title = 'No existian los emojis'
 +++
 Cuando todo empezo, al menos para mi, no existian los emojis.
