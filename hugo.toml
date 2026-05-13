@@ -4,7 +4,5 @@ title = 'loco'
 theme = 'hugo-flex'
 
 params:
-  color: black           # Any color in CSS syntax
-  divider: \2500\2500   # Any string in CSS syntax / leave empty for no divider
-  footer: >-            # HTML spaces (&#32;) are needed before HTML elements
-    Yo lo escribo, asi que es mio. No lo uses sin permiso.
+color: black           # Any color in CSS syntax
+footer: Yo lo escribo, asi que es mio. No lo uses sin permiso.
