@@ -2,6 +2,3 @@ baseURL = 'https://loco.kultura.cl/'
 locale = 'es-cl'
 title = 'loco'
 theme = 'hugo-flex'
-
-params:
-  color: teal
