@@ -9,7 +9,7 @@ DefaultContentLanguage = "en"
   hardWraps = true
 
 [blackfriday]
-extensions = [“hardLineBreak”]
+  extensions = ["hardLineBreak"]
 
 [params]
   dateFormat = "2006-01-02"
