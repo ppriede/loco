@@ -8,6 +8,9 @@ DefaultContentLanguage = "en"
 [markup.goldmark.renderer]
   hardWraps = true
 
+[blackfriday]
+extensions = [“hardLineBreak”]
+
 [params]
   dateFormat = "2006-01-02"
   color = 'black'
