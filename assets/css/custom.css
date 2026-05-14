@@ -1,6 +1,5 @@
 /* Change font size for all code blocks */
 code {
-    line-break: '';
     font-size: 5px;
     line-height: 5px;
     font-family: 'Lucida Console','Consolas','Monaco','Monospace';
