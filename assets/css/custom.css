@@ -3,7 +3,7 @@ code {
     line-break: '';
     font-size: 2px;
     line-height: 2px;
-    font-family: 'Consolas';
+    font-family: 'Lucida Console','Consolas','Monaco','Monospace';
     white-space: pre;      /* Prevents text from wrapping */
     overflow-x: auto;     /* Adds a horizontal scrollbar if the line is too long */
     display: block;
