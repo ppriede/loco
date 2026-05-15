@@ -2,7 +2,7 @@ baseURL = 'https://loco.kultura.cl/'
 locale = 'es-cl'
 title = 'loco'
 theme = 'hugo-flex'
-DefaultContentLanguage = "es"
+DefaultContentLanguage = 'es'
 
 [minify]
   minifyOutput = false
