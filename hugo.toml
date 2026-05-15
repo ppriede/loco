@@ -4,6 +4,7 @@ title = 'loco'
 theme = 'hugo-flex'
 languageCode = "en"
 DefaultContentLanguage = "en"
+minifyOutput = false
 
 [markup.goldmark.renderer]
   hardWraps = true

@@ -1,7 +1,7 @@
 code {
-    font-size: 2px;
-    line-height: 2px;
-    font-family: "Courier New", Courier, monospace;
+    font-size: 1px;
+    line-height: 1px;
+    font-family: monospace, "Courier New", Courier;
     white-space: pre-wrap;
     overflow-x: auto;
     display: block;
