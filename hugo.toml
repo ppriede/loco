@@ -2,9 +2,12 @@ baseURL = 'https://loco.kultura.cl/'
 locale = 'es-cl'
 title = 'loco'
 theme = 'hugo-flex'
-languageCode = "en"
-DefaultContentLanguage = "en"
-minifyOutput = false
+DefaultContentLanguage = "es"
+
+[minify]
+  minifyOutput = false
+  disableCSS = true
+  disableXML = true
 
 [markup.goldmark.renderer]
   hardWraps = true
