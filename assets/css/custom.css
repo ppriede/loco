@@ -1,6 +1,22 @@
-code {
-    font-size: 2px;
-    line-height: 2px;
+.arte {
+    font-size: 1px;
+    line-height: 1px;
+    font-family: "Consolas", monospace, "Courier New", "Courier";
+    white-space: pre-wrap;
+    overflow-x: auto;
+    display: block;
+}
+.arte5 {
+    font-size: 5px;
+    line-height: 5px;
+    font-family: "Consolas", monospace, "Courier New", "Courier";
+    white-space: pre-wrap;
+    overflow-x: auto;
+    display: block;
+}
+.arte10 {
+    font-size: 10px;
+    line-height: 10px;
     font-family: "Consolas", monospace, "Courier New", "Courier";
     white-space: pre-wrap;
     overflow-x: auto;
