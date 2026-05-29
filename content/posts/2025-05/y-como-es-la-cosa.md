@@ -11,7 +11,7 @@ Convertir la imagen como [arte ASCII](https://es.wikipedia.org/wiki/ASCII#Arte_A
 ¿Problema?
 El motor del blog ([Hugo](https://gohugo.io/)) no estaba cooperando
 ¿Solución del problema?
-Crear un bloque de codigo espectial (art), donde muestro el bloque como yo quiera
+Crear un bloque de codigo especial (arte), donde muestro el bloque como yo quiera
 ¿Problema de la solución del problema?
 Los espacios ( ) del codigo ASCII dejaban la embarrada, entre [Cloudflare Pages](https://pages.cloudflare.com/), la [compilacion del Hugo de Cloudflare](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/) y el Minify del HTML final.
 ¿Solución del problema de la solución del problema?
