@@ -1,3 +1,6 @@
 /resources/_gen
 /public
 content/posts/sync.ffs_db
+admin/*
+AGENTS.md
+PLAN.md
