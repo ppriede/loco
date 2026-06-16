@@ -1,6 +1,6 @@
 +++
 date = '2026-06-16'
-draft = true
+draft = false
 title = 'haciendo cosas'
 +++
 Ahora estoy haciendo algunas cosas.
