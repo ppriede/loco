@@ -4,3 +4,4 @@ content/posts/sync.ffs_db
 admin/*
 AGENTS.md
 PLAN.md
+package.json
