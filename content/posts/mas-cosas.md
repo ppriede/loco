@@ -1,7 +1,7 @@
 +++
-date = '2026-05-12T15:48:14-04:00'
-draft = true
+date = '2026-05-12'
+draft = false
 title = 'Mas cosas que publicar'
 +++
-Ya quedo configurado, ¿Servira?
+Ya quedo configurado, ¿Servirá?
 Que se yo
