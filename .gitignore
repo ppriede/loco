@@ -6,3 +6,4 @@ AGENTS.md
 PLAN.md
 package.json
 *.code-workspace
+*.ps1
